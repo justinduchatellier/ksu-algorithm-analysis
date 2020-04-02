@@ -1,1 +1,1 @@
-# ksu-algorithm-analysis
+# Algorithm Analysis assignments at Kennesaw State University
